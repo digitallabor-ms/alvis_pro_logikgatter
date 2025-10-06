@@ -43,5 +43,25 @@ Zu jedem Operator gibt es jeweils ein Logikgatter als Modell, eine Placemat und 
 | Strebendurchgang | "Strebendurchgang" von FH Münster und Digitallabor Münster CC BY-SA 4.0     |
 | Ultraschallsensor | Original: "Ultraschallsensor" von X über Thingiverse. (modifiziert)         |
 
+| Bauanleitungen            | Lizenz                                                                           |
+|---------------------------|----------------------------------------------------------------------------------|
+| Bauanleitung NICHT-Gatter | "Bauanleitung NICHT-Gatter" von FH Münster und Digitallabor Münster CC BY-SA 4.0 |
+| Bauanleitung ODER-Gatter  | "Bauanleitung ODER-Gatter" von FH Münster und Digitallabor Münster CC BY-SA 4.0  |
+| Bauanleitung UND-Gatter   | "Bauanleitung UND-Gatter" von FH Münster und Digitallabor Münster CC BY-SA 4.0   |
+| Bauanleitung Bahnhof      | "Bauanleitung Bahnhof"  von FH Münster und Digitallabor Münster CC BY-SA-NC 4.0  |
+
+| Placemats        | Lizenz                                                                                  |
+|------------------|-----------------------------------------------------------------------------------------|
+| Placemat NICHT   | "Placemat NICHT" von FH Münster und Digitallabor Münster CC BY-SA 4.0 / ©Fischertechnik |
+| Placemat ODER    | "Placemat ODER" von FH Münster und Digitallabor Münster CC BY-SA 4.0 /  ©Fischertechnik |
+| Placemat UND     | "Placemat UND" von FH Münster und Digitallabor Münster CC BY-SA 4.0 /   ©Fischertechnik |
+
+| Workshop                           | Lizenz                                                                        |
+|------------------------------------|-------------------------------------------------------------------------------|
+| Alvis pro Workshop Logikgatter h5p | "Workshop Logikgatter" von FH Münster und Digitallabor Münster CC BY-SA 4.0   |
+| Einleitung Alvis pro Calliope      | "Einleitung Calliope" von FH Münster und Digitallabor Münster CC BY-SA 4.0    |
+| Einleitung Alvis pro Logikgatter   | "Einleitung Logikgatter" von FH Münster und Digitallabor Münster CC BY-SA 4.0 |
+| Leitfaden zum Workshop Logikgatter | Original: "Ultraschallsensor" von X über Thingiverse. (modifiziert)           |
+
 ### Hinweise
 Kontaktdaten für Fragen: tbd.
