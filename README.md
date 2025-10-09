@@ -55,13 +55,29 @@ Zu jedem Operator gibt es jeweils ein Logikgatter als Modell, eine Placemat und 
 | Placemat NICHT   | "Placemat NICHT" von FH Münster und Digitallabor Münster CC BY-SA 4.0 / ©Fischertechnik |
 | Placemat ODER    | "Placemat ODER" von FH Münster und Digitallabor Münster CC BY-SA 4.0 /  ©Fischertechnik |
 | Placemat UND     | "Placemat UND" von FH Münster und Digitallabor Münster CC BY-SA 4.0 /   ©Fischertechnik |
+#
+| Workshop und Handreichungen für Lehrpersonen | Lizenz                                                                        |
+|----------------------------------------------|-------------------------------------------------------------------------------|
+| Alvis pro Workshop Logikgatter h5p           | "Workshop Logikgatter" von FH Münster und Digitallabor Münster CC BY-SA 4.0   |
+| Einleitung Alvis pro Calliope                | "Einleitung Calliope" von FH Münster und Digitallabor Münster CC BY-SA 4.0    |
+| Einleitung Alvis pro Logikgatter             | "Einleitung Logikgatter" von FH Münster und Digitallabor Münster CC BY-SA 4.0 |
+| Leitfaden zum Workshop Logikgatter           | Original: "Ultraschallsensor" von X über Thingiverse. (modifiziert)           |
 
-| Workshop                           | Lizenz                                                                        |
-|------------------------------------|-------------------------------------------------------------------------------|
-| Alvis pro Workshop Logikgatter h5p | "Workshop Logikgatter" von FH Münster und Digitallabor Münster CC BY-SA 4.0   |
-| Einleitung Alvis pro Calliope      | "Einleitung Calliope" von FH Münster und Digitallabor Münster CC BY-SA 4.0    |
-| Einleitung Alvis pro Logikgatter   | "Einleitung Logikgatter" von FH Münster und Digitallabor Münster CC BY-SA 4.0 |
-| Leitfaden zum Workshop Logikgatter | Original: "Ultraschallsensor" von X über Thingiverse. (modifiziert)           |
+Hier gibt es weitere Infortmationen zum 
+
+---
 
 ### Hinweise
 Kontaktdaten für Fragen: tbd.
+
+Hilfreiche Links ergänzend zum Projekt:
+
+| Ziel                                                   | URL                                                                          |
+|--------------------------------------------------------|------------------------------------------------------------------------------|
+| Institut für Gesellschaft und Digitales der FH Münster | https://www.fh-muenster.de/gud/  |
+| Digitallabor der Stadt Münster                         | http://digitallabor.ms   |
+| Fischertechnik / ROBO PRO Coding                       | https://www.fischertechnik.de/de-de/apps-und-software#apps |
+| Calliope / Makecode                                    | https://makecode.calliope.cc          |
+|                                                        |          |
+|                                                        |          |
+
