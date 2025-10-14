@@ -36,12 +36,12 @@ Zu jedem Operator gibt es jeweils ein Logikgatter als Modell, eine Placemat und 
 > Die Lizenzhinweise bitte genau beachten, da die angebotenen Materialien 
 > unterschiedlichen Creative Commons und Copyright-Lizenzen unterliegen.
 
-| 3D-Druck Vorlage                    | Lizenz                                                                      |
+| 3D-Druck Vorlagen                   | Lizenz                                                                      |
 |-------------------------------------|-----------------------------------------------------------------------------|
 | Cover für Gatter mit einem Eingang  | "Gatter ein Eingang" von FH Münster und Digitallabor Münster CC BY-SA 4.0   |
 | Cover für Gatter mit zwei Eingängen | "Gatter zwei Eingänge" von FH Münster und Digitallabor Münster CC BY-SA 4.0 |
-| Strebendurchgang | "Strebendurchgang" von FH Münster und Digitallabor Münster CC BY-SA 4.0     |
-| Ultraschallsensor | Original: "Ultraschallsensor" von X über Thingiverse. (modifiziert)         |
+| Strebendurchgang                    | "Strebendurchgang" von FH Münster und Digitallabor Münster CC BY-SA 4.0     |
+| Ultraschallsensor                   | Original: "Ultraschallsensor" von X über Thingiverse. (modifiziert)         |
 
 | Bauanleitungen            | Lizenz                                                                           |
 |---------------------------|----------------------------------------------------------------------------------|
