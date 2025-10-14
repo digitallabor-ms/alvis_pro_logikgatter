@@ -63,7 +63,7 @@ Zu jedem Operator gibt es jeweils ein Logikgatter als Modell, eine Placemat und 
 | Einleitung Alvis pro Logikgatter             | "Einleitung Logikgatter" von FH Münster und Digitallabor Münster CC BY-SA 4.0 |
 | Leitfaden zum Workshop Logikgatter           | Original: "Ultraschallsensor" von X über Thingiverse. (modifiziert)           |
 
-Hier gibt es weitere Infortmationen zum 
+Weitere Informationen zu den Creative Commons Lizenzen finden Sie [hier](https://de.creativecommons.net/was-ist-cc/). 
 
 ---
 
@@ -72,12 +72,12 @@ Kontaktdaten für Fragen: tbd.
 
 Hilfreiche Links ergänzend zum Projekt:
 
-| Ziel                                                   | URL                                                                          |
-|--------------------------------------------------------|------------------------------------------------------------------------------|
+| Ziel                                                   | URL                                                                         |
+|--------------------------------------------------------|-----------------------------------------------------------------------------|
 | Institut für Gesellschaft und Digitales der FH Münster | https://www.fh-muenster.de/gud/  |
 | Digitallabor der Stadt Münster                         | http://digitallabor.ms   |
 | Fischertechnik / ROBO PRO Coding                       | https://www.fischertechnik.de/de-de/apps-und-software#apps |
 | Calliope / Makecode                                    | https://makecode.calliope.cc          |
-|                                                        |          |
+| Creative Commons                                       | https://de.creativecommons.net/was-ist-cc/        |
 |                                                        |          |
 
