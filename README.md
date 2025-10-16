@@ -5,7 +5,7 @@
 
 ## Einleitung zum Projekt
 
-**Algorithmen visuell programmieren (Alvis pro)** ist ein gemeinschaftliches Projekt des [Insituts für Gesellschaft und Digitalisierung
+**Algorithmen visuell programmieren (Alvis pro)** ist ein gemeinschaftliches Projekt des [Instituts für Gesellschaft und Digitalisierung
 (GUD)](https://www.fh-muenster.de/gud/) der [FH Münster](https://www.fh-muenster.de) und des [Digitallabors der Stadt Münster](https://www.digitallabor.ms).
 
 Schülerinnen und Schüler lernen hier in einem interaktiven Workshop anhand von
