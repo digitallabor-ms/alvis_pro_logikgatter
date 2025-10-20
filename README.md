@@ -68,9 +68,8 @@ Weitere Informationen zu den Creative Commons Lizenzen finden Sie [hier](https:/
 ---
 
 ### Hinweise
-Kontaktdaten für Fragen: tbd.
 
-Hilfreiche Links ergänzend zum Projekt:
+Links ergänzend zum Projekt:
 
 | Ziel                                                   | URL                                                                         |
 |--------------------------------------------------------|-----------------------------------------------------------------------------|
