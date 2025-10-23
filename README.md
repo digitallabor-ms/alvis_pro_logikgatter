@@ -34,14 +34,21 @@ Zu jedem Operator gibt es jeweils ein Logikgatter als Modell, eine Placemat und 
 ### Lizenzen
 > [!IMPORTANT]
 > Die Lizenzhinweise bitte genau beachten, da die angebotenen Materialien 
-> unterschiedlichen Creative Commons und Copyright-Lizenzen unterliegen.
+> unterschiedliche Creative Commons und Copyright-Lizenzen beinhalten. 
+> Sämtliche Attributionen wurden nach bestem Wissen und gewissen ausgeführt 
+
+**Informationen zu den Creative Commons Lizenzen finden Sie [hier](https://de.creativecommons.net/was-ist-cc/).**
 
 | 3D-Druck Vorlagen                   | Lizenz                                                                      |
 |-------------------------------------|-----------------------------------------------------------------------------|
 | Cover für Gatter mit einem Eingang  | "Gatter ein Eingang" von FH Münster und Digitallabor Münster CC BY-SA 4.0   |
 | Cover für Gatter mit zwei Eingängen | "Gatter zwei Eingänge" von FH Münster und Digitallabor Münster CC BY-SA 4.0 |
 | Strebendurchgang                    | "Strebendurchgang" von FH Münster und Digitallabor Münster CC BY-SA 4.0     |
-| Ultraschallsensor                   | Original: "Ultraschallsensor" von X über Thingiverse. (modifiziert)         |
+| Servo-Halterung                     | fischertechnik SG90 mini servo mount by NBGer is licensed under the Creative Commons - Attribution - Non-Commercial - Share Alike license |
+| Halterung-Ultraschallsensor | Fischertechnik Mount for HC-SR04 (Ultrasonic Sensor) by NBGer is licensed under the Creative Commons - Attribution - Non-Commercial - Share Alike license. |
+| Schranke | Servo SG90 Barrier by Vlastimil3 is licensed under the Creative Commons - Attribution license. |
+| Bahnhof Hogsmeade | Hogsmeade - Goathland signal box OO gauge (1:76) - Harry Potter Signal box by Lkdesu is licensed under the Creative Commons - Attribution - Non-Commercial license. |
+
 
 | Bauanleitungen            | Lizenz                                                                           |
 |---------------------------|----------------------------------------------------------------------------------|
@@ -61,9 +68,7 @@ Zu jedem Operator gibt es jeweils ein Logikgatter als Modell, eine Placemat und 
 | Alvis pro Workshop Logikgatter h5p           | "Workshop Logikgatter" von FH Münster und Digitallabor Münster CC BY-SA 4.0   |
 | Einleitung Alvis pro Calliope                | "Einleitung Calliope" von FH Münster und Digitallabor Münster CC BY-SA 4.0    |
 | Einleitung Alvis pro Logikgatter             | "Einleitung Logikgatter" von FH Münster und Digitallabor Münster CC BY-SA 4.0 |
-| Leitfaden zum Workshop Logikgatter           | Original: "Ultraschallsensor" von X über Thingiverse. (modifiziert)           |
-
-Weitere Informationen zu den Creative Commons Lizenzen finden Sie [hier](https://de.creativecommons.net/was-ist-cc/). 
+| Leitfaden zum Workshop Logikgatter           | "Bauanleitung Bahnhof"  von FH Münster und Digitallabor Münster CC BY-SA 4.0  |
 
 ---
 
