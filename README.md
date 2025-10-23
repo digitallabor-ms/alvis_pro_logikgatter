@@ -66,10 +66,10 @@ Zu jedem Operator gibt es jeweils ein Logikgatter als Modell, eine Placemat und 
 | Workshop und Handreichungen für Lehrpersonen | Lizenz                                                                                            |
 |----------------------------------------------|---------------------------------------------------------------------------------------------------|
 | Alvis pro Workshop Logikgatter h5p           | "Workshop Logikgatter" von FH Münster und Digitallabor Münster CC BY-SA 4.0                       |
-| Einleitung Alvis pro Calliope                | "Einleitung Calliope" von FH Münster und Digitallabor Münster CC BY-SA 4.0                        |
-| Einleitung Alvis pro Logikgatter             | "Einleitung Logikgatter" von FH Münster und Digitallabor Münster CC BY-SA 4.0                     |
+| Einleitung Alvis pro Calliope                | "Einleitung Alvis pro Calliope" von FH Münster und Digitallabor Münster CC BY-SA 4.0              |
+| Einleitung Alvis pro Logikgatter             | "Einleitung Alvis pro Logikgatter" von FH Münster und Digitallabor Münster CC BY-SA 4.0           |
 | Leitfaden zum Workshop Logikgatter           | "Bauanleitung Bahnhof"  von FH Münster und Digitallabor Münster CC BY-SA 4.0                      |
-| Leitfaden Logikgatter                        | "Leitfaden Logikgatter" von FH Münster und Digitallabor Münster CC BY-SA 4.0                      |
+| Leitfaden Logikgatter                        | "Leitfaden Alvis pro Logikgatter" von FH Münster und Digitallabor Münster CC BY-SA 4.0            |
 | Bausteine Druckvorlage 1                     | "Bausteine Druckvorlage 1" von FH Münster und Digitallabor Münster CC BY-SA 4.0 / ©Fischertechnik |
 | Bausteine Druckvorlage 2                     | "Bausteine Druckvorlage 2" von FH Münster und Digitallabor Münster CC BY-SA 4.0 / ©Fischertechnik |
 
