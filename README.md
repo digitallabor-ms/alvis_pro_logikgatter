@@ -69,6 +69,7 @@ Zu jedem Operator gibt es jeweils ein Logikgatter als Modell, eine Placemat und 
 | Einleitung Alvis pro Calliope                | "Einleitung Calliope" von FH Münster und Digitallabor Münster CC BY-SA 4.0    |
 | Einleitung Alvis pro Logikgatter             | "Einleitung Logikgatter" von FH Münster und Digitallabor Münster CC BY-SA 4.0 |
 | Leitfaden zum Workshop Logikgatter           | "Bauanleitung Bahnhof"  von FH Münster und Digitallabor Münster CC BY-SA 4.0  |
+| Leitfaden Logikgatter | "Leitfaden Logikgatter" von FH Münster und Digitallabor Münster CC BY-SA 4.0 |
 
 ---
 
