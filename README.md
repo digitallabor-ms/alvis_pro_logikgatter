@@ -7,6 +7,8 @@
 
 **Algorithmen visuell programmieren (Alvis pro)** ist ein gemeinschaftliches Projekt des [Instituts für Gesellschaft und Digitalisierung
 (GUD)](https://www.fh-muenster.de/gud/) der [FH Münster](https://www.fh-muenster.de) und des [Digitallabors der Stadt Münster](https://www.digitallabor.ms).
+Alvis pro wird im Rahmen des [Pakts für Informatik 2.0](https://www.efre.nrw/einfach-machen/foerderung-finden/pakt-fuer-informatik-20) (EFRE) durch die EU und 
+das [Ministerium für Wirtschaft, Industrie, Klimaschutz und Energie des Landes NRW](https://www.wirtschaft.nrw/ministerium) gefördert.
 
 Schülerinnen und Schüler lernen hier in einem interaktiven Workshop anhand von
 physischen Modellen und einem übergeordneten Anwendungsbeispiel die Funktionsweise 
@@ -16,10 +18,10 @@ durch einfache Programmieraufgaben in einer blockbasierten Entwicklungsumgebung
 wieder zurück ins Digitale.
 
 In diesem Git stellen wir Ihnen von Bauanleitungen über Placemats und einer
-h5p-Datei das Material bereit, um den Workshop selbst ausführen zu können.
-Das Material ist als *Open Educational Ressource (OER)* bereit. Beachten Sie 
+H5P-Datei alles an Code und digitalem Material bereit, um den Workshop selbst durchführen zu können.
+Alle Materialien stehen als *Open Educational Ressource (OER)* zum Download zur Verfügung. Beachten Sie 
 dennoch die unter Lizenzen angegebenen Verwendungshinweise, insbesondere die kopiergeschützten Inhalte,
-die uns zur Verwendung freundlicherweise durch [Fischertechnik](https://www.fischertechnik.de/de-de) und [Intellino](https://intelino.com/) zur Verfügung gestellt wurden.
+die uns zur Verwendung freundlicherweise durch [Fischertechnik](https://www.fischertechnik.de/de-de) und [Intelino](https://intelino.com/) zur Verfügung gestellt wurden.
 
 
 ## Logikgatter
@@ -37,7 +39,8 @@ Zu jedem Operator gibt es jeweils ein Logikgatter als Modell, eine Placemat und 
 > unterschiedliche Creative Commons und Copyright-Lizenzen beinhalten. 
 > Sämtliche Attributionen wurden nach bestem Wissen und gewissen ausgeführt 
 
-**Informationen zu den Creative Commons Lizenzen finden Sie [hier](https://de.creativecommons.net/was-ist-cc/).**
+**Informationen zu den Creative Commons Lizenzen finden Sie [hier](https://de.creativecommons.net/was-ist-cc/) und gezielt 
+zu [CC BY-SA 4.0 hier](https://creativecommons.org/licenses/by-sa/4.0/deed.de).**
 
 | 3D-Druck Vorlagen                   | Lizenz                                                                      |
 |-------------------------------------|-----------------------------------------------------------------------------|
@@ -65,10 +68,9 @@ Zu jedem Operator gibt es jeweils ein Logikgatter als Modell, eine Placemat und 
 #
 | Workshop und Handreichungen für Lehrpersonen | Lizenz                                                                                            |
 |----------------------------------------------|---------------------------------------------------------------------------------------------------|
-| Alvis pro Workshop Logikgatter h5p           | "Workshop Logikgatter" von FH Münster und Digitallabor Münster CC BY-SA 4.0                       |
+| Alvis pro Workshop Logikgatter H5P           | "Workshop Logikgatter" von FH Münster und Digitallabor Münster CC BY-SA 4.0                       |
 | Einleitung Alvis pro Calliope                | "Einleitung Alvis pro Calliope" von FH Münster und Digitallabor Münster CC BY-SA 4.0              |
 | Einleitung Alvis pro Logikgatter             | "Einleitung Alvis pro Logikgatter" von FH Münster und Digitallabor Münster CC BY-SA 4.0           |
-| Leitfaden zum Workshop Logikgatter           | "Bauanleitung Bahnhof"  von FH Münster und Digitallabor Münster CC BY-SA 4.0                      |
 | Leitfaden Logikgatter                        | "Leitfaden Alvis pro Logikgatter" von FH Münster und Digitallabor Münster CC BY-SA 4.0            |
 | Bausteine Druckvorlage 1                     | "Bausteine Druckvorlage 1" von FH Münster und Digitallabor Münster CC BY-SA 4.0 / ©Fischertechnik |
 | Bausteine Druckvorlage 2                     | "Bausteine Druckvorlage 2" von FH Münster und Digitallabor Münster CC BY-SA 4.0 / ©Fischertechnik |
@@ -79,12 +81,15 @@ Zu jedem Operator gibt es jeweils ein Logikgatter als Modell, eine Placemat und 
 
 Links ergänzend zum Projekt:
 
-| Ziel                                                   | URL                                                                         |
-|--------------------------------------------------------|-----------------------------------------------------------------------------|
-| Institut für Gesellschaft und Digitales der FH Münster | https://www.fh-muenster.de/gud/  |
-| Digitallabor der Stadt Münster                         | http://digitallabor.ms   |
-| Fischertechnik / ROBO PRO Coding                       | https://www.fischertechnik.de/de-de/apps-und-software#apps |
-| Calliope / Makecode                                    | https://makecode.calliope.cc          |
-| Creative Commons                                       | https://de.creativecommons.net/was-ist-cc/        |
-|                                                        |          |
+| Ziel                                                                          | URL                                                                         |
+|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| Institut für Gesellschaft und Digitales der FH Münster                        | https://www.fh-muenster.de/gud/  |
+| Digitallabor der Stadt Münster                                                | http://digitallabor.ms   |
+| Fischertechnik / ROBO PRO Coding                                              | https://www.fischertechnik.de/de-de/apps-und-software#apps |
+| Calliope  | https://calliope.cc |
+| Calliope / Makecode                                                           | https://makecode.calliope.cc          |
+| Was sind Creative Commons                                                     | https://de.creativecommons.net/was-ist-cc/        |
+| Creative Commons Lizenz CC BY-SA 4.0                                          | https://creativecommons.org/licenses/by-sa/4.0/deed.de      |
+| Ministerium für Wirtschaft, Industrie, Klimaschutz und Energie des Landes NRW | https://www.wirtschaft.nrw/ministerium |
+| Pakt für Informatik 2.0 (EFRE-Förderung) | https://www.efre.nrw/einfach-machen/foerderung-finden/pakt-fuer-informatik-20 |
 
