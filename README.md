@@ -6,7 +6,7 @@
 ## Einleitung zum Projekt
 
 **Algorithmen visuell programmieren (Alvis pro)** ist ein gemeinschaftliches Projekt des [Instituts für Gesellschaft und Digitalisierung
-(GUD)](https://www.fh-muenster.de/gud/) der [FH Münster](https://www.fh-muenster.de) und des [Digitallabors der Stadt Münster](https://www.digitallabor.ms).
+(GUD)](https://www.fh-muenster.de/gud/) und des [Digitallabors der Stadt Münster](https://www.digitallabor.ms) unter der Leitung der [FH Münster](https://www.fh-muenster.de).
 Alvis pro wird im Rahmen des [Pakts für Informatik 2.0](https://www.efre.nrw/einfach-machen/foerderung-finden/pakt-fuer-informatik-20) (EFRE) durch die EU und 
 das [Ministerium für Wirtschaft, Industrie, Klimaschutz und Energie des Landes NRW](https://www.wirtschaft.nrw/ministerium) gefördert.
 
