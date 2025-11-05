@@ -10,9 +10,8 @@
 Alvis pro wird im Rahmen des [Pakts für Informatik 2.0](https://www.efre.nrw/einfach-machen/foerderung-finden/pakt-fuer-informatik-20) (EFRE) durch die EU und 
 das [Ministerium für Wirtschaft, Industrie, Klimaschutz und Energie des Landes NRW](https://www.wirtschaft.nrw/ministerium) gefördert.
 
-Teilnehmende lernen hier in einem interaktiven Workshop anhand von
-physischen Modellen und einem übergeordneten Anwendungsbeispiel die Funktionsweise 
-elementarer Bestandteile der Informatik kennen und verstehen ihre Anwendung.
+Der Workshop ermöglicht es Kindern und Jugendlichen im Alter von 12 bis 14 Jahren, mithilfe physischer Modelle und 
+eines übergeordneten Anwendungsbeispiels zentrale Konzepte der Informatik interaktiv zu verstehen und praktisch nachzuvollziehen.
 Anschließend bringen die Teilnehmenden das Gelernte
 durch einfache Programmieraufgaben in einer blockbasierten Entwicklungsumgebung
 wieder zurück ins Digitale.
