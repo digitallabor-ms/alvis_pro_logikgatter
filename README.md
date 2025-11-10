@@ -30,7 +30,7 @@ die uns zur Verwendung freundlicherweise durch [Fischertechnik](https://www.fisc
 ### Inhalt
 Der Workshop Logikgatter behandelt die elementaren **Logik-Operatoren NICHT, UND sowie ODER**.
 Zu jedem Operator gibt es jeweils ein Logikgatter als Modell, eine Placemat und eigenes Kapitel im Workshop.
-Das entpsrechende Workbook ist unter dem folgenden Link zu finden: [Workbook Logikgatter](https://www.digitallabor.ms/alvis-pro/alvis-pro-logikgatter/)
+Das entsprechende Workbook ist unter dem folgenden Link zu finden: [Workbook Logikgatter](https://www.digitallabor.ms/alvis-pro/alvis-pro-logikgatter/)
 
 
 
